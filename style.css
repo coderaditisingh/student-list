@@ -1,0 +1,12 @@
+#Bsort{
+    display: none;
+}
+body{
+    text-align: center;
+    background: chartreuse;
+    color:rgb(0, 78, 223);
+    }
+    input{
+        color: crimson;
+        background-color: cyan;
+    }
